@@ -1,0 +1,48 @@
+body{
+    text-align:center;
+    font-family:sans-serif;
+    background-image:linear-gradient(to bottom right, #be88e0 , #29166c);
+    color:white;
+    
+  }
+
+  #title{
+    font-size:45px;
+    font-family: Times-new-roman;
+  }
+
+  #body{
+    width:600px;
+    padding:50px;
+    margin:auto;
+    border-radius:10px;
+    text-align:left;
+    background-color:rgba(0,0,0,0.6);
+    font-size:20px;
+    color:white;
+    
+  }
+  
+  #name{
+    width:560px;
+    padding:15px;
+    border-radius:10px;
+  }
+
+  #address{
+    width:560px;
+    padding:15px;
+    border-radius:10px;
+  }
+  
+  #submit{
+    width:590px;
+    padding:20px;
+    font-size:20px;
+    border-radius:10px;
+    border:none;
+    margin-top:3%;
+    color:white;
+    background-color:Blue;
+    
+  }
